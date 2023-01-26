@@ -4,7 +4,8 @@ express and cor dependencies were used.
 The best way I found to approach this solution in a more controlled manner, was to use APIs.
 POST method to crete the clean json file and populate with cleaner info, GET to get the original information.
 
-To run, use npm start.
+To download dependencies, first run npm install.
+Then, to run, use npm start.
 
 After npm starting the project, you have to click on the virtual button for cleaning.
 In order to make it scalable, that functionality was added, so can be adaptable maybe to other features as well if need be.
